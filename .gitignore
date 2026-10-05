@@ -1,0 +1,18 @@
+# Raw participant data and local/private source files
+*.xlsx
+*.sav
+*.rds
+*.RData
+data/
+raw_data/
+
+# Generated analysis outputs
+results/
+figures/
+logs/
+*.log
+
+# Local files
+.DS_Store
+.Rhistory
+.Rproj.user/
